@@ -1,4 +1,4 @@
-# 📊 **Netflix Data Analysis – Mini Project**
+# 📊 **Netflix Data Analysis – Minor Project**
 
 *Analyzing global trends, genres, ratings, and content patterns using Python & Google Colab.*
 
