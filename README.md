@@ -136,6 +136,3 @@ If you found this project useful:
 
 **Aditya Dash**
 Data Analyst | Python Enthusiast | Machine Learning Learner
-✅ Generate a downloadable `README.md` file
-
-Just tell me!
