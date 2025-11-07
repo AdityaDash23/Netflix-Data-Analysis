@@ -66,7 +66,7 @@ Netflix-Data-Analysis/
 │   └── Netflix_DA.ipynb          # Jupyter notebook with full analysis
 │
 ├── reports/
-│   └── Netflix_DA.pdf            # Printable PDF version
+│   └── Netflix-Data-Analysis.pdf            # Printable PDF version
 │
 ├── data/
 │   └── netflix.csv               # Dataset used for analysis
@@ -98,7 +98,7 @@ The analysis includes visually rich plots such as:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/Netflix-Data-Analysis.git
+   git clone https://github.com/<AdityaDash23>/Netflix-Data-Analysis.git
    ```
 2. Upload the notebook to **Google Colab**
 3. Upload `netflix.csv` or use the URL provided in the notebook
