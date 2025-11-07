@@ -1,8 +1,8 @@
-# 📊 **Netflix Data Analysis – Minor Project**
+# **Netflix Data Analysis – Minor Project**
 
 *Analyzing global trends, genres, ratings, and content patterns using Python & Google Colab.*
 
-## 📁 **Project Overview**
+## **Project Overview**
 
 This project performs an in-depth analysis of the **Netflix Titles Dataset**, containing movies and TV shows along with metadata such as cast, director, release year, ratings, duration, and genre classification.
 
