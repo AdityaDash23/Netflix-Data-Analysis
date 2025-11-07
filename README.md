@@ -16,7 +16,7 @@ The objective is to generate **business insights** that can help Netflix optimiz
 
 All analysis was performed in **Google Colab**, with visualizations created using *Pandas, Matplotlib,* and *Seaborn*.
 
-## 🎯 **Project Objectives**
+## **Project Objectives**
 
 1. Compare Movies vs TV Shows on Netflix
 2. Identify most popular genres & countries
@@ -28,36 +28,36 @@ All analysis was performed in **Google Colab**, with visualizations created usin
 8. Recommend the best time to launch content
 9. Generate actionable business recommendations
 
-## 🧠 **Key Insights**
+## **Key Insights**
 
 Some of the major insights discovered:
 
-### ✅ **Content Strategy**
+### **Content Strategy**
 
 * Movies dominate the catalog (70%), but TV Shows have grown rapidly since 2016.
 * Drama, Comedy, and Documentaries are the most popular global genres.
 
-### ✅ **User Demographics & Targeting**
+### **User Demographics & Targeting**
 
 * TV-MA is the most frequent rating → strong focus on mature audiences.
 * July, September, and December are peak months for adding content.
 
-### ✅ **Talent Insights**
+### **Talent Insights**
 
 * Directors like **Rajiv Chilaka**, **Raúl Campos**, and **Jay Karas** appear most frequently.
 * Actors from regional industries (Bollywood, K-Dramas, Spanish shows) dominate local content.
 
-### ✅ **Engagement**
+### **Engagement**
 
 * Average movie duration ≈ **100 minutes** (ideal engagement length).
 * Most TV Shows have **only 1 season**, aligning with Netflix's limited-series strategy.
 
-### ✅ **International Content**
+### **International Content**
 
 * The U.S., India, and UK produce the most Netflix titles.
 * South Korea and Japan specialize in K-Dramas and Anime.
 
-## 📂 **Project Structure**
+## **Project Structure**
 
 ```
 Netflix-Data-Analysis/
@@ -74,7 +74,7 @@ Netflix-Data-Analysis/
 └── README.md                     # Project documentation
 ```
 
-## 🛠️ **Technologies Used**
+## **Technologies Used**
 
 * **Python 3**
 * **Google Colab**
@@ -84,7 +84,7 @@ Netflix-Data-Analysis/
 * **Seaborn**
 * **Counter (collections)**
 
-## 📊 **Visualizations**
+## **Visualizations**
 
 The analysis includes visually rich plots such as:
 
@@ -93,7 +93,7 @@ The analysis includes visually rich plots such as:
 * Count plots (Movies vs TV Shows)
 * Area charts (genre variations over years)
 
-## 🚀 **How to Run the Project**
+## **How to Run the Project**
 
 1. Clone the repository:
 
@@ -105,7 +105,7 @@ The analysis includes visually rich plots such as:
 4. Run all cells sequentially
 5. View analysis results and insights
 
-## ✅ **Business Recommendations**
+## **Business Recommendations**
 
 Based on the analysis:
 
@@ -115,31 +115,27 @@ Based on the analysis:
 * Strengthen long-term collaborations with top-performing directors and actors.
 * Continue producing movies around **90–110 minutes** for optimal viewer retention.
 
-## 📝 **Dataset Source**
+## **Dataset Source**
 
 Netflix Titles Dataset
 🔗 [https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/netflix.csv](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/netflix.csv)
 
-## 🤝 **Contributions**
+## **Contributions**
 
 Pull requests are welcome!
 Feel free to suggest improvements or add new analyses.
 
-## ⭐ **Show Your Support**
+## **Show Your Support**
 
 If you found this project useful:
 ✅ Star the repo ⭐
 ✅ Share it on LinkedIn
 ✅ Add it to your portfolio
 
-## 👨‍💻 **Author**
+## **Author**
 
 **Aditya Dash**
 Data Analyst | Python Enthusiast | Machine Learning Learner
-
-If you like, I can also:
-✅ Create a **GitHub profile README** for your account
-✅ Suggest a project cover image
 ✅ Generate a downloadable `README.md` file
 
 Just tell me!
